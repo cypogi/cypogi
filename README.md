@@ -1,36 +1,42 @@
 # 👋 Hi, I'm Melchor Banal Jr.
 
-### Administrative Support | Document Controller | AI Data Specialist
+> ### Helping organizations improve documentation, operational efficiency, and data accuracy through organized administrative support and continuous learning.
 
-🌍 **Based in the Philippines**  
+### Administrative Support • Document Controller • AI Data Specialist
+
+🌍 **Based in the Philippines**
+
 🌎 **Open to Remote • Onsite • Relocation Opportunities Worldwide**
 
 ---
 
-## 👨‍💼 Professional Summary
+# WHO I AM
 
 I am an Administrative Support and Document Control professional with more than **7 years of international work experience** in Saudi Arabia.
 
-My professional background includes document control, administrative support, records management, report preparation, inventory documentation, data entry, and operational coordination.
+Throughout my career, I have supported factory, warehouse, and office operations through accurate documentation, records management, report preparation, inventory coordination, data entry, and administrative support.
 
 I am currently expanding my expertise in **AI Evaluation**, **Quality Assurance**, and **Remote Operations**, while continuously improving my technical and professional skills.
 
+I enjoy solving problems, improving workflows, and helping organizations maintain accurate records and efficient daily operations.
+
 ---
 
-# 💼 Professional Snapshot
+# PROFESSIONAL SNAPSHOT
 
 | | |
 |:---|:---|
 | 🌏 **Location** | Philippines |
 | 💼 **Experience** | 7+ Years |
-| 🌐 **Availability** | Worldwide |
+| 🌍 **International Experience** | Saudi Arabia |
 | 💻 **Work Preference** | Remote • Onsite • Relocation |
-| 🗣 **Languages** | English & Tagalog |
-| 📄 **Specialization** | Administrative Support & Document Control |
+| 🌎 **Availability** | Worldwide |
+| 🗣 **Languages** | English • Tagalog |
+| 📄 **Specialization** | Administrative Support • Document Control • AI Evaluation |
 
 ---
 
-# 🛠 Core Skills
+# CORE EXPERTISE
 
 ![Administrative Support](https://img.shields.io/badge/Administrative%20Support-Professional-2563EB?style=for-the-badge)
 
@@ -40,66 +46,94 @@ I am currently expanding my expertise in **AI Evaluation**, **Quality Assurance*
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Advanced-16A34A?style=for-the-badge)
 
-![Data Entry](https://img.shields.io/badge/Data%20Entry-Accurate-F59E0B?style=for-the-badge)
-
-![Inventory Documentation](https://img.shields.io/badge/Inventory%20Documentation-Experienced-9333EA?style=for-the-badge)
+![Data Entry](https://img.shields.io/badge/Data%20Entry-Professional-F59E0B?style=for-the-badge)
 
 ![Report Preparation](https://img.shields.io/badge/Report%20Preparation-Professional-0F766E?style=for-the-badge)
 
-![AI Evaluation](https://img.shields.io/badge/AI%20Evaluation-Learning-7C3AED?style=for-the-badge)
+![Inventory Documentation](https://img.shields.io/badge/Inventory%20Documentation-Experienced-7C3AED?style=for-the-badge)
 
-![Quality Assurance](https://img.shields.io/badge/Quality%20Assurance-Learning-DC2626?style=for-the-badge)
+![AI Evaluation](https://img.shields.io/badge/AI%20Evaluation-Continuous%20Learning-8B5CF6?style=for-the-badge)
 
----
-
-# 🚀 Current Focus
-
-- 🌍 Building an international career
-- 🤖 AI Evaluation & Quality Assurance
-- 📄 Administrative Excellence
-- 📊 Documentation & Reporting
-- 📁 Records Management
-- 💻 Continuous Learning
-- 🌐 Portfolio Development
+![Quality Assurance](https://img.shields.io/badge/Quality%20Assurance-Continuous%20Learning-DC2626?style=for-the-badge)
 
 ---
 
-# 🌐 Professional Portfolio
+# WHAT I BRING
 
-### 🔗 https://cypogi.github.io
+✅ Strong Administrative Support Experience
 
----
+✅ Professional Document Control & Records Management
 
-# 📧 Contact Information
+✅ Accurate Report Preparation & Documentation
 
-**Email**
+✅ Inventory Documentation & Operational Coordination
 
-📩 **melchorbanaljr@gmail.com**
+✅ Data Entry with High Attention to Detail
 
-**GitHub**
+✅ Microsoft Excel & Office Administration
 
-🐙 **https://github.com/cypogi**
+✅ Continuous Learning Mindset
 
----
+✅ International Work Experience
 
-# 🎯 Career Objective
-
-To contribute my administrative expertise, documentation skills, operational support experience, and continuous learning mindset to organizations worldwide while growing professionally in administrative operations, AI evaluation, quality assurance, and digital technologies.
+✅ Reliable Team Collaboration
 
 ---
 
-# 🌎 Availability
+# CURRENT FOCUS
 
-✅ Remote Opportunities
+🌍 Building an International Career
 
-✅ Onsite Opportunities
+🤖 AI Evaluation & Quality Assurance
+
+📄 Administrative Excellence
+
+📊 Documentation & Reporting
+
+💻 Digital Operations
+
+📚 Continuous Professional Development
+
+---
+
+# PROFESSIONAL PORTFOLIO
+
+### 🌐 Website
+
+## https://cypogi.github.io
+
+---
+
+# CONTACT
+
+📧 **Email**
+
+**melchorbanaljr@gmail.com**
+
+🐙 **GitHub**
+
+**https://github.com/cypogi**
+
+---
+
+# CAREER MISSION
+
+To contribute my administrative expertise, documentation skills, operational support experience, and commitment to continuous improvement to organizations worldwide while growing professionally in administrative operations, AI evaluation, quality assurance, and digital technologies.
+
+---
+
+# OPEN FOR OPPORTUNITIES
+
+✅ Remote Positions
+
+✅ Onsite Positions
 
 ✅ Relocation Opportunities
 
-✅ International Positions
+✅ International Organizations
 
 ---
 
-> **"Helping organizations improve documentation, operational efficiency, and data accuracy through professional administrative support, organized workflows, and continuous learning."**
+> **"Professionalism is built through reliability, continuous learning, attention to detail, and delivering quality work every day."**
 
-⭐ Thank you for visiting my GitHub profile!
+⭐ Thank you for visiting my GitHub profile.
